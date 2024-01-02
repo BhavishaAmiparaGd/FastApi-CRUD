@@ -1,0 +1,6 @@
+-dependency:
+      pip install fastapi uvicorn mysql-connector-python
+
+
+-how to run:
+     uvicorn main:app --reload
